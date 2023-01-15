@@ -1,5 +1,8 @@
 .page {
   font-family: 'Inter', Arial, sans-serif;
-  margin: 0 auto;
   background-color: #2A2C2F;
+  display: flex;
+  flex-direction: column;
+  row-gap: 92px;
+  align-items: center;
 }
