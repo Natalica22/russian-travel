@@ -1,0 +1,6 @@
+.place__info {
+  grid-area: info;
+  display: flex;
+  flex-direction: column;
+  row-gap: 26px;
+}

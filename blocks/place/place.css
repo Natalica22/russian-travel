@@ -1,0 +1,10 @@
+.place {
+  max-width: 984px;
+  display: grid;
+  grid-template-areas:
+    "header  website"
+    "image info"
+  ;
+  column-gap: 40px;
+  grid-template-columns: 460px 484px;
+}
