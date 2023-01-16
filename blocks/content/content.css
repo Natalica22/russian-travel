@@ -5,3 +5,9 @@
   max-width: 984px;
   row-gap: 92px;
 }
+
+@media screen and (max-width: 1279px) {
+  .content {
+    max-width: 720px;
+  }
+}
