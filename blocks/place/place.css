@@ -1,5 +1,4 @@
 .place {
-  max-width: 984px;
   display: grid;
   grid-template-areas:
     "header  website"
