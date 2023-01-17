@@ -15,5 +15,12 @@
 @media screen and (max-width: 1023px) {
   .content {
     max-width: 100%;
+    row-gap: 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .content {
+    row-gap: 64px;
   }
 }
