@@ -7,6 +7,13 @@
   align-items: center;
   background-image: url("../../images/cover-trains.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   position: relative;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover {
+    min-width: 100vw;
+    min-height: calc(100vw * 0.625);
+  }
 }
