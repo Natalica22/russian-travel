@@ -12,7 +12,7 @@
 
 @media screen and (max-width: 767px) {
   .intro {
-    max-width: 288px;
+    max-width: calc(100% - 32px);
     align-self: auto;
   }
 }
