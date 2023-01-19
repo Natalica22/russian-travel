@@ -4,3 +4,7 @@
   flex-direction: column;
   align-items: center;
 }
+
+.cover__link:hover > .blur-link {
+  opacity: .8;
+}
