@@ -1,6 +1,12 @@
 .place__info {
-  grid-area: info;
   display: flex;
   flex-direction: column;
   row-gap: 26px;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__info {
+    row-gap: 25px;
+  }
+
 }

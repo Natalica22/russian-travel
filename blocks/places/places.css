@@ -4,3 +4,9 @@
   row-gap: 80px;
   max-width: 100%;
 }
+
+@media screen and (max-width: 767px) {
+  .places {
+    row-gap: 50px;
+  }
+}
