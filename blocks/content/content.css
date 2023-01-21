@@ -8,13 +8,12 @@
 
 @media screen and (max-width: 1279px) {
   .content {
-    max-width: 928px;
+    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .content {
-    max-width: 100%;
     row-gap: 88px;
   }
 }
