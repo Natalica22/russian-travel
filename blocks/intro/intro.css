@@ -1,7 +1,6 @@
 .intro {
   max-width: 690px;
   align-self: start;
-  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1279px) {
