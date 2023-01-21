@@ -10,6 +10,12 @@
   box-sizing: border-box;
 }
 
+@media screen and (max-width: 1279px) {
+  .lead__subtitle {
+    padding-bottom: 56px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .lead__subtitle {
     padding-bottom: 40px;
