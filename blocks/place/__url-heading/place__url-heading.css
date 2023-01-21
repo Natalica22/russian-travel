@@ -3,13 +3,13 @@
   padding-bottom: 12px;
   font-weight: 400;
   font-size: 12px;
+  line-height: 1.7;
   color: #aaa;
   letter-spacing: 2px;
 }
 
 @media screen and (max-width: 1023px) {
   .place__url-heading {
-    font-size: 12px;
     line-height: 1;
   }
 }
